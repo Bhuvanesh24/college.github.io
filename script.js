@@ -47,4 +47,3 @@ function alertmsg(){
 function alertmsg2(){
     window.alert("Logged In");
 }
-alertmsg2();
